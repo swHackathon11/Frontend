@@ -140,7 +140,7 @@ export default ({ type, year, month, day, workers }) => {
                     alert("수락되었습니다")
                     setSubstitute(curr => {
                         const tmp = curr.map(element => {
-                            if(element.id === employee_id) {
+                            if(element.id == employee_id) {
                                 return {
                                     id: element.id,
                                     employee_id: element.employee_id,
