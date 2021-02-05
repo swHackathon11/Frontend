@@ -35,5 +35,5 @@ npm start
 
 👤 **알바꼼꼼**
 
--   최민우(팀장), 심현아, 이희우, 전민기, 정우준
+-   최민우(팀장, frontend, backend), 심현아(frontend), 이희우(backend), 전민기(ai), 정우준(designer)
 -   Team Github: [@Alba](https://github.com/swHackathon11)
