@@ -5,6 +5,8 @@
 
 > SW 중심대학 공동 해커톤 출품작, 알바꼼꼼입니다.
 
+![캡처](https://user-images.githubusercontent.com/42240771/107098818-80f44b00-6853-11eb-9a6e-f33386fba03a.PNG)
+
 ### 🏠 [Server Api]()
 
 https://alba-api.herokuapp.com/
