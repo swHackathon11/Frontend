@@ -13,7 +13,13 @@ https://alba-api.herokuapp.com/
 
 ## 🐶 사용 기술 스택
 
--   ![title](https://img.shields.io/badge/-React-00CAFF?&logo=React&logoColor=white)
+-   Landing Page
+
+![landing](https://user-images.githubusercontent.com/42240771/107099291-a2096b80-6854-11eb-85a6-88c35a8463e5.PNG)
+
+-   Calendar Page
+
+![calendar](https://user-images.githubusercontent.com/42240771/107099253-83a37000-6854-11eb-87a3-048a0da21b40.PNG)
 
 ## Install
 
